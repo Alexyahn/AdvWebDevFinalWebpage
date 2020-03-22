@@ -1,0 +1,36 @@
+.form {
+    padding-top: 1%;
+    line-height: 2.3em;
+    text-align: center;
+    padding-left: 6%;
+}
+
+h1 {
+    padding-top: 5%;
+    text-align: center;
+    padding-left: 5%;
+    font-family: "Times New Roman", Times, serif;
+}
+
+img {
+    padding-top: 7%;
+    padding-bottom: .5%;
+    padding-left: 27%;
+    width: 50%;
+    height: 10%;
+}
+
+.btn-primary {
+    margin-top: 2.3em;
+    margin-left: 49%;
+}
+
+.formBox {    
+    background-color: cornflowerblue;
+    border-style: solid;
+    border-radius: 2.5%;
+    padding-bottom: 3%;
+    margin-top: 10%;
+    margin-left: 30%;
+    margin-right: 30%;
+}
