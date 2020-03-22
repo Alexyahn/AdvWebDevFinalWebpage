@@ -6,7 +6,7 @@ import LoginForm from './components/LoginForm';
 class App extends Component {
     render() {
         return (
-            <div class="formBox">
+            <div className="formBox">
             <img src="https://www.csp.edu/wp-content/themes/csponline/assets/images/logo.svg" alt="Concordia Logo" />
                 <LoginForm />
             </div>

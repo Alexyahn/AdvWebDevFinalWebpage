@@ -1,20 +1,20 @@
 import React from 'react';
 
 function LoginForm() {
-    return <form class="menu">
-                <div class="form">
-                    <label for="email"></label>
-                    <input type="email" class="form-control" id="exampleEmail" placeholder="email@example.com" />
+    return <form className="menu">
+                <div className="form">
+                    <label htmlfor="email"></label>
+                    <input type="email" className="form-control" id="exampleEmail" placeholder="email@example.com" />
                 </div>
-                <div class="form">
-                    <label for="password"></label>
-                    <input type="password" class="form-control" id="examplePass" placeholder="Password" />
+                <div className="form">
+                    <label htmlfor="password"></label>
+                    <input type="password" className="form-control" id="examplePass" placeholder="Password" />
                 </div>
-                <div class="form-group">
-                <div class="form-check">
+                <div className="form-group">
+                <div className="form-check">
                 </div>
                 </div>
-                <button type="submit" class="btn-primary">Sign in</button>
+                <button type="submit" className="btn-primary">Sign in</button>
             </form>
     }
 
